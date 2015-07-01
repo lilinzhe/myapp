@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSLog(@"hello");
     NSLog(@"my first app");
+    NSLog(@"my subBranch commit");
+    NSLog(@"you can do it ");
     NSLog(@"my subBranch");
 }
 
